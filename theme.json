@@ -1,7 +1,7 @@
 {
-    "room":                     "Radiant Music",
-    "author":                   "Origin",
-    "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
+    "room":                     "Trap City",
+    "author":                   "NoisYmenT",
+    "icon":                     null,
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
