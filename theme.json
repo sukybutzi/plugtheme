@@ -1,17 +1,17 @@
 {
-    "room": "Community Name",
-    "author": "Author",
+    "room": "Trap City",
+    "author": "NoisYmenT",
     "icon": null,
-    "css": null,
+    "css": "https://dl.dropboxusercontent.com/s/dxgd88vvz7pwz3l/plugcustomcsstheme2.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
-        "allowAutojoin": true,
-        "allowAutograb": true,
+        "allowAutojoin": false,
+        "allowAutograb": false,
         "allowSmartVote": true,
         "allowEmotes": true,
-        "allowShowingMehs": true,
-        "forceSmartVote": false
+        "allowShowingMehs": false,
+        "forceSmartVote": false,
     },
     "ccc": {
         "admin": null,
