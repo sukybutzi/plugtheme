@@ -1,8 +1,10 @@
-/*.room-background {
-    background: url(https://cdn.radiant.dj/rcs/radiant.music.nov1.jpg) no-repeat !important;
+// was commented out
+.room-background {
+    background: url(https://cloud.githubusercontent.com/assets/13244618/16566883/e3ed5fa0-4218-11e6-948c-adcff2a109f1.jpg) no-repeat !important;
     width: 500% !important;
     height: 500% !important;
-}*/
+}
+// until here
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
 }
@@ -178,6 +180,6 @@ background: #c42e3b;
 
 /*f u c c b o i*/
 [data-cid^="5328048-"]   .badge-box .bdg { 
-    background-image: url("http://i.imgur.com/4A1rVvK.png") !important;
+    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16566916/257520e8-4219-11e6-9028-cd387e47f220.png") !important;
     background-position: 0px 0px;
 }
