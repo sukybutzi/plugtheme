@@ -72,6 +72,9 @@
     /*padding-left: 25px;*/
     border-left: #7681FF 3px solid;
 }
+#chat .me {
+     color: #0040ff !important;
+}
 #chat .emote .from {
      color: #ac76ff !important;
 }
