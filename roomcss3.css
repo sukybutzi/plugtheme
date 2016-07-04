@@ -1856,4 +1856,8 @@
     background-position: 0px 0px;
 }
 
-
+/*Savage Panda*/
+[data-cid^="3920745-"]   .badge-box .bdg { 
+    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16569654/2eb4f60e-4239-11e6-880b-fb64b7bcb3fd.png") !important;
+    background-position: 0px 0px;
+}
