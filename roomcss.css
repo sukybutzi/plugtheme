@@ -72,8 +72,11 @@
     /*padding-left: 25px;*/
     border-left: #7681FF 3px solid;
 }
+#chat .moderation {
+    color: #cc0033 !important;
+}
 #chat .emote .from {
-     color: #0040ff !important;
+     color: #ac76ff !important;
     /* color: #ac76ff !important; */
 }
 #chat .emote {
@@ -86,7 +89,7 @@
 #chat .emote .text {
     font-style: normal;
     font-weight: bold;
-    color: #0040ff;
+    color: #ac76ff;
  /* color: #ac76ff; */
 }
 #footer {
