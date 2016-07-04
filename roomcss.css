@@ -72,9 +72,9 @@
     /*padding-left: 25px;*/
     border-left: #7681FF 3px solid;
 }
-#chat .moderation {
-    color: #cc0033 !important;
-}
+#chat .moderation, #chat .moderation .from .un{
+    color: #01e1ff;
+} 
 #chat .emote .from {
      color: #ac76ff !important;
     /* color: #ac76ff !important; */
@@ -181,6 +181,26 @@ background: #c42e3b;
 
 #user-lists .list.room .user .icon-grab {
     right: 35px;
+}
+
+#chat .moderation:hover {
+    -moz-transition: 100ms linear 50ms;
+    -o-transition: 100ms linear 50ms;
+    -webkit-transition: 100ms linear 50ms;
+    border-left: #FF7676 1px solid;
+    padding-left: 1px;
+    text-decoration: none;
+    transition: 100ms linear 50ms;
+}
+
+#chat .message:hover #chat .emote:hover #chat .update:hover {
+    -moz-transition: 100ms linear 50ms;
+    -o-transition: 100ms linear 50ms;
+    -webkit-transition: 100ms linear 50ms;
+    border-left: #FFFFFF 1px solid;
+    padding-left: 1px;
+    text-decoration: none;
+    transition: 100ms linear 50ms;
 }
 
 /*f u c c b o i*/
