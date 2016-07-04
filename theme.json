@@ -2,7 +2,7 @@
     "room":                     "RAVENUE",
     "author":                   "NoisYmenT",
     "icon":                     "http://i.imgur.com/Oz4WgWT.png",
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css":                      "https://rawgit.com/NoisYmenT/plugtheme/master/roomcss.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
@@ -42,8 +42,5 @@
     "autocomplete": [],
     "emotes": {
         "custom_test":          "https://cdn.radiant.dj/rcs/icons/test_custom.png"
-    }
-    "badges": {
-        "5328048":              "http://i.imgur.com/Oz4WgWT.png"
     }
 }
