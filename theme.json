@@ -23,8 +23,8 @@
         "rdj":                  "#9966ff",
         "subscriber":           null,
         "silversubscriber":     null,
-        "friend":               "#33cc33",
-        "user":                 "#669966"
+        "friend":               null,
+        "user":                 null
     },
     "images": {
         "background":           "https://cloud.githubusercontent.com/assets/13244618/16566883/e3ed5fa0-4218-11e6-948c-adcff2a109f1.jpg",
