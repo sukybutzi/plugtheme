@@ -1,7 +1,7 @@
 {
-    "room":                     "Trap City",
+    "room":                     "Molly Room",
     "author":                   "NoisYmenT",
-    "icon":                     null,
+    "icon":                     "https://openclipart.org/image/2400px/svg_to_png/222252/feels.png",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
