@@ -29,15 +29,15 @@
     "images": {
         "background":           "https://cloud.githubusercontent.com/assets/13244618/16567475/6cd3ec7a-421f-11e6-8504-9db4e3a1d54b.jpg",
         "playback":             null,
-        "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
-        "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "host":                 "https://cdn.radiant.dj/rcs/icons/radiant/host.png",
-        "cohost":               "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
-        "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
-        "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "admin":                null,
+        "ambassador":           null,
+        "host":                 "",
+        "cohost":               "",
+        "manager":              "",
+        "bouncer":              "",
+        "rdj":                  "",
         "subscriber":           null,
-        "silversubscriber":     "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+        "silversubscriber":     null
     },
     "autocomplete": [],
     "emotes": {
