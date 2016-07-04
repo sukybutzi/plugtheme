@@ -1652,7 +1652,7 @@
 /***************/
 /*NAME STYLINGS*/
 /***************/
-
+ 
 /* Enyx */
 [data-cid^="3684485-"].cm .msg .from .un, #user-lists .list .role-manager.id-3684485 .name {
   color: #000 !important;
@@ -1852,3 +1852,25 @@
 {
     background: url("http://i.imgur.com/uvkSrZm.png");
 }
+
+/* CUSTOM CUSTOM CUSTOM */
+
+/*f u c c b o i*/
+[data-cid^="5328048-"]   .badge-box .bdg { 
+    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16566916/257520e8-4219-11e6-9028-cd387e47f220.png") !important;
+    background-position: 0px 0px;
+}
+
+/*NoisYmenT*/
+[data-cid^="5565914-"]   .badge-box .bdg { 
+    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16568006/389210a8-4225-11e6-94a9-a320d6196cdc.png") !important;
+    background-position: 0px 0px;
+}
+
+/*Skiletro*/
+[data-cid^="4052314-"]   .badge-box .bdg { 
+    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16568895/0dc5d386-4230-11e6-8070-c5992fb05a1c.gif") !important;
+    background-position: 0px 0px;
+}
+
+
