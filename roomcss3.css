@@ -1862,3 +1862,17 @@
     background-image: url("https://cloud.githubusercontent.com/assets/13244618/16569654/2eb4f60e-4239-11e6-880b-fb64b7bcb3fd.png") !important;
     background-position: 0px 0px;
 }
+
+/* ZIRAK */
+#chat-messages .fromID-13449752 .badge-box i,
+#chat-messages  .id-13449752 .badge-box i {
+    background-image: url(http://media3.giphy.com/media/UHKL9BtyM4WrK/giphy.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+
+}
