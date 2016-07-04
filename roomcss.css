@@ -12,7 +12,7 @@
     background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
 }
 #playlist-button {
-    background: linear-gradient(to bottom,#5700FF 0,#00001a 100%);
+    background: linear-gradient(to bottom,#0268AC 0,#02225C 100%);
 }
 #app-header {
     background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
@@ -96,7 +96,7 @@
     background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
 }
 #playlist-button {
-    background: linear-gradient(to bottom,#5700FF 0,#00001a 100%);
+    background: linear-gradient(to bottom,#0268AC 0,#02225C 100%);
 }
 .social-menu .icon-twitter,.social-menu .icon-facebook {
     opacity: 0;
