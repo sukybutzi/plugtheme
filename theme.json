@@ -2,7 +2,7 @@
     "room":                     "RAVENUE",
     "author":                   "NoisYmenT",
     "icon":                     "https://cloud.githubusercontent.com/assets/13244618/16566923/3c8a87fa-4219-11e6-8e68-1e84e2ca7cf7.png",
-    "css":                      "https://rawgit.com/NoisYmenT/plugtheme/master/roomcss.css",
+    "css":                      "https://rawgit.com/NoisYmenT/plugtheme/master/roomcss2.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
