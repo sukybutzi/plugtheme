@@ -1686,7 +1686,7 @@
 }
 
 [data-cid^="5328048"] .msg .from .un {
-  color: 8, 53, 149 !important;
+  color: #ac76ff !important;
 }
 
 #chat-messages .id-5328048 .badge-box {
@@ -1695,7 +1695,7 @@
 
 #chat .moderation {
        /* background: linear-gradient(85deg,#1F1232 0,#111317 33%,#111317 100%) !important;*/
-  background: rgba(53, 121, 247, 0.33) !important;
+  background: rgba(34, 23, 54, 0.33) !important;
   border-left: 3px solid #8230FF;
 }
 
