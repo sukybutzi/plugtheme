@@ -1851,6 +1851,7 @@
 */
 
 /* NOISYMENT v2 */
+/*
 #chat-messages .fromID-5565914 .badge-box i,
 #chat-messages  .id-5565914 .badge-box i {
     background-image: url(http://bestanimations.com/Nature/Fire/simpsons-fire-gif.gif);
@@ -1863,6 +1864,18 @@
     border-radius: 0;
 
 }
+*/
+
+/*NoisYmenT V3*/
+[data-cid^="5565914-"]   .badge-box .bdg { 
+    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16897176/fabe6838-4ba9-11e6-912c-c7121b9ecb7d.gif") !important;
+    background-position: 0px 0px;
+    width: 31px;
+    height: 31px;
+    border: none;
+    border-radius: 0;
+}
+
 
 
 
