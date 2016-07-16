@@ -1,7 +1,3 @@
-/*  Community Theme Styling */
-/*  Created Originally By donvoo(https://github.com/donvoo) & greySynapse(https://github.com/greySynapse) */
-/*  Maintained and Updated By TheBanHammer(https://github.com/thebanhammer) & PixelBreeze(https://github.com/PixelBreeze) &PowerOfMad(https://github.com/PowerOfMad) */
-/*colorfull */
 /********/
 /*TITLES*/
 /********/
@@ -1841,15 +1837,34 @@
 
 /*f u c c b o i*/
 [data-cid^="5328048-"]   .badge-box .bdg { 
-    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16566916/257520e8-4219-11e6-9028-cd387e47f220.png") !important;
+      background-image: url("https://cloud.githubusercontent.com/assets/13244618/16897080/076175ba-4ba7-11e6-9b8e-2a96d0016f84.png") !important;
+/*    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16566916/257520e8-4219-11e6-9028-cd387e47f220.png") !important; */
     background-position: 0px 0px;
 }
 
 /*NoisYmenT*/
+/*
 [data-cid^="5565914-"]   .badge-box .bdg { 
     background-image: url("https://cloud.githubusercontent.com/assets/13244618/16568006/389210a8-4225-11e6-94a9-a320d6196cdc.png") !important;
     background-position: 0px 0px;
 }
+*/
+
+/* NOISYMENT v2 */
+#chat-messages .fromID-13449752 .badge-box i,
+#chat-messages  .id-13449752 .badge-box i {
+    background-image: url(http://bestanimations.com/Nature/Fire/simpsons-fire-gif.gif);
+    background-size: cover;
+    width: 31px;
+    height: 31px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+
+}
+
+
 
 /*Skiletro*/
 [data-cid^="4052314-"]   .badge-box .bdg { 
@@ -1866,10 +1881,10 @@
 /* ZIRAK */
 #chat-messages .fromID-13449752 .badge-box i,
 #chat-messages  .id-13449752 .badge-box i {
-    background-image: url(http://media3.giphy.com/media/UHKL9BtyM4WrK/giphy.gif);
+    background-image: url(https://media.giphy.com/media/UHKL9BtyM4WrK/giphy.gif);
     background-size: cover;
-    width: 30px;
-    height: 30px;
+    width: 31px;
+    height: 31px;
     top: 0;
     left: 0;
     border: none;
