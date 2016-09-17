@@ -1866,6 +1866,22 @@
 }
 
 
+/*  SENZOREX */
+
+#chat-messages .fromID-3529964 .badge-box i,
+#chat-messages  .id-3529964 .badge-box i {
+    background-image: url(https://cloud.githubusercontent.com/assets/13244618/18604406/81d02b38-7c7c-11e6-8e62-5c149166357f.png);
+    background-size: cover;
+    width: 31px;
+    height: 31px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+
+}
+
+
 /*Skiletro*/
 [data-cid^="4052314-"]   .badge-box .bdg { 
     background-image: url("https://cloud.githubusercontent.com/assets/13244618/16568895/0dc5d386-4230-11e6-8070-c5992fb05a1c.gif") !important;
