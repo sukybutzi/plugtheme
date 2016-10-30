@@ -1836,11 +1836,28 @@
 /* CUSTOM CUSTOM CUSTOM */
 
 /*f u c c b o i*/
+/*
 [data-cid^="5328048-"]   .badge-box .bdg { 
       background-image: url("https://cloud.githubusercontent.com/assets/13244618/19840367/394fe2fa-9ef4-11e6-957d-836d28d1c887.png") !important;
-/*    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16566916/257520e8-4219-11e6-9028-cd387e47f220.png") !important; */
+/*    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16566916/257520e8-4219-11e6-9028-cd387e47f220.png") !important; */ /*
     background-position: 0px 0px;
 }
+*/
+/* f u c c b o i  v2 */
+
+#chat-messages .fromID-5328048 .badge-box i,
+#chat-messages  .id-5328048 .badge-box i {
+    background-image: url(https://cloud.githubusercontent.com/assets/13244618/19840367/394fe2fa-9ef4-11e6-957d-836d28d1c887.png);
+    background-size: cover;
+    width: 31px;
+    height: 31px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+
+}
+
 
 /*NoisYmenT*/
 /*
