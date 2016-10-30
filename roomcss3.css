@@ -1843,20 +1843,20 @@
 }
 
 /*NoisYmenT*/
-
+/*
 [data-cid^="5565914-"]   .badge-box .bdg { 
     background-image: url("https://cloud.githubusercontent.com/assets/13244618/16568006/389210a8-4225-11e6-94a9-a320d6196cdc.png") !important;
     background-position: 0px 0px;
 }
-
+*/
 
 
 /* NOISYMENT v2 */
-/*
+
 #chat-messages .fromID-5565914 .badge-box i,
 #chat-messages  .id-5565914 .badge-box i {
-   /* background-image: url(https://cloud.githubusercontent.com/assets/13244618/16897382/a8f0888c-4baf-11e6-9564-d059baf7910a.gif */ /*
-    background-image: url(https://cloud.githubusercontent.com/assets/13244618/18608508/8224c2fa-7ceb-11e6-9c7e-7029f487daf8.png);
+    background-image: url(https://cloud.githubusercontent.com/assets/13244618/16897382/a8f0888c-4baf-11e6-9564-d059baf7910a.gif);
+    /* background-image: url(https://cloud.githubusercontent.com/assets/13244618/18608508/8224c2fa-7ceb-11e6-9c7e-7029f487daf8.png); */
     background-size: cover;
     width: 31px;
     height: 31px;
@@ -1866,7 +1866,7 @@
     border-radius: 0;
 
 }
-*/
+
 
 /*  SENZOREX */
 
