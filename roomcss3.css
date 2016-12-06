@@ -1864,14 +1864,14 @@
 
 #chat-messages .fromID-5328048 .badge-box i,
 #chat-messages  .id-5328048 .badge-box i {
-    background-image: url(https://cloud.githubusercontent.com/assets/13244618/20932828/4dff6fdc-bbd6-11e6-9352-4d8549ccba0e.gif);
-    background-size: cover;
-    width: 31px;
-    height: 31px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
+    background-image: url(https://cloud.githubusercontent.com/assets/13244618/20932828/4dff6fdc-bbd6-11e6-9352-4d8549ccba0e.gif) !important;
+    background-size: cover !important;
+    width: 31px !important;
+    height: 31px !important;
+    top: 0 !important;
+    left: 0 !important;
+    border: none !important;
+    border-radius: 0 !important;
 
 }
 
