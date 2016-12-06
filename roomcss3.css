@@ -1843,11 +1843,28 @@
     background-position: 0px 0px;
 }
 */
-/* f u c c b o i  v2 */
 
+
+/* f u c c b o i  v2 */
+/*
 #chat-messages .fromID-5328048 .badge-box i,
 #chat-messages  .id-5328048 .badge-box i {
     background-image: url(https://66.media.tumblr.com/df5d3c1ba571af1d6674facd5834899b/tumblr_nxj8sbeStS1ubtso7o1_500.gif) !important;
+    background-size: cover;
+    width: 31px;
+    height: 31px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+
+}
+*/
+/* f u c c b o i  v3 */
+
+#chat-messages .fromID-5328048 .badge-box i,
+#chat-messages  .id-5328048 .badge-box i {
+    background-image: url(https://cloud.githubusercontent.com/assets/13244618/19839442/fb6b010c-9ee1-11e6-80fb-3af2e91c38c0.png);
     background-size: cover;
     width: 31px;
     height: 31px;
