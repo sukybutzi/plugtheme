@@ -27,7 +27,7 @@
         "user":                 null
     },
     "images": {
-        "background":           "https://cloud.githubusercontent.com/assets/13244618/26025260/d8d90ad0-37e3-11e7-9259-c6d763ac743b.png",
+        "background":           null,
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
