@@ -1832,129 +1832,80 @@
 {
     background: url("http://i.imgur.com/uvkSrZm.png");
 }
+/*bot*/
 
-/* CUSTOM CUSTOM CUSTOM */
-
-/*f u c c b o i*/
-/*
-[data-cid^="5328048-"]   .badge-box .bdg { 
-      background-image: url("https://cloud.githubusercontent.com/assets/13244618/19840367/394fe2fa-9ef4-11e6-957d-836d28d1c887.png") !important;
-/*    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16566916/257520e8-4219-11e6-9028-cd387e47f220.png") !important; */ /*
-    background-position: 0px 0px;
+#chat-messages [data-cid^="3609549-"] .timestamp,
+#chat [data-cid^="3609549-"].emote .timestamp {
+    color: rgba(255, 54, 73, 0.7) !important;
 }
-*/
 
-
-/* f u c c b o i  v2 */
-/*
-#chat-messages .fromID-5328048 .badge-box i,
-#chat-messages  .id-5328048 .badge-box i {
-    background-image: url(https://66.media.tumblr.com/df5d3c1ba571af1d6674facd5834899b/tumblr_nxj8sbeStS1ubtso7o1_500.gif) !important;
-    background-size: cover;
-    width: 31px;
-    height: 31px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-
+#chat [data-cid^='3609549-'] .un:after,
+#user-lists .list .user.id-3609549 .name:after,
+#user-rollover.id-3609549 .username:after {
+    content: 'BOT';
+    border-color: #8c8888;
+    border-radius: 2px;
+    border-width: 1px;
+    font-size: 11px;
+    display: inline-block;
+    margin: 0 0 0 8px;
+    padding: 0 2px;
+    color: #8c8888;
+    font-style: normal;
+    font-weight: bold;
+    background: black;
 }
-*/
-/* f u c c b o i  v3 */
 
-#chat-messages .fromID-5328048 .badge-box i,
-#chat-messages  .id-5328048 .badge-box i {
-    background-image: url(https://cloud.githubusercontent.com/assets/13244618/20932828/4dff6fdc-bbd6-11e6-9352-4d8549ccba0e.gif) !important;
+#chat [data-cid^='3609549-'] .badge-box .bdg {
+    background-image: url(https://user-images.githubusercontent.com/13318905/31194013-72fcc0b2-a94e-11e7-9358-4d083480dd4e.png)!important;
     background-size: cover !important;
-    width: 31px !important;
-    height: 31px !important;
-    top: 0 !important;
-    left: 0 !important;
-    border: none !important;
-    border-radius: 0 !important;
-
+}
+#user-lists .list .user.id-3609549 .name,
+#user-rollover.id-3609549 .username,
+#chat [data-cid^='3609549-'] .un {
+    color: #FF3649 !important;
+    font-style: italic;
 }
 
-
-/*NoisYmenT*/
-/*
-[data-cid^="5565914-"]   .badge-box .bdg { 
-    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16568006/389210a8-4225-11e6-94a9-a320d6196cdc.png") !important;
-    background-position: 0px 0px;
-}
-*/
-
-
-/* NOISYMENT v2 */
-
-#chat-messages .fromID-5565914 .badge-box i,
-#chat-messages  .id-5565914 .badge-box i {
-    background-image: url(https://cloud.githubusercontent.com/assets/13244618/16897382/a8f0888c-4baf-11e6-9564-d059baf7910a.gif);
-    /* background-image: url(https://cloud.githubusercontent.com/assets/13244618/18608508/8224c2fa-7ceb-11e6-9c7e-7029f487daf8.png); */
-    background-size: cover;
-    width: 31px;
-    height: 31px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-
+#chat-messages [data-cid^="3609549-"] .text {
+    font-weight: bold;
 }
 
-
-/*  SENZOREX */
-
-#chat-messages .fromID-3529964 .badge-box i,
-#chat-messages  .id-3529964 .badge-box i {
-    background-image: url(https://cloud.githubusercontent.com/assets/13244618/18604406/81d02b38-7c7c-11e6-8e62-5c149166357f.png);
-    background-size: cover;
-    width: 31px;
-    height: 31px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-
+#chat-messages [data-cid^="3609549-"] .msg {
+    font-weight: bold;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.01), rgba(255, 255, 255, 0.1));
+    border-radius: 10px;
 }
 
-
-/*Skiletro*/
-[data-cid^="4052314-"]   .badge-box .bdg { 
-    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16568895/0dc5d386-4230-11e6-8070-c5992fb05a1c.gif") !important;
-    background-position: 0px 0px;
+#user-lists .list .user.id-3609549 .name:after,
+#user-rollover.id-3609549 .username:after {
+    content: 'BOT';
+    border-color: #8c8888;
+    border-radius: 2px;
+    border-width: 1px;
+    font-size: 11px;
+    display: inline-block;
+    margin: 0 0 0 8px;
+    padding: 0 2px;
+    color: #8c8888;
+    font-style: normal;
+    font-weight: bold;
+    background: black;
+}
+#chat [data-cid^="3609549-"].message .timestamp {
+    color: rgba(255, 54, 73, 0.7) !important;
 }
 
-/*Savage Panda*/
-[data-cid^="3920745-"]   .badge-box .bdg { 
-    background-image: url("https://cloud.githubusercontent.com/assets/13244618/16569654/2eb4f60e-4239-11e6-880b-fb64b7bcb3fd.png") !important;
-    background-position: 0px 0px;
+#chat [data-cid^="3609549-"].emote .text {
+    color: #f7f7f7 !important;
 }
 
-/* ZIRAK */
-#chat-messages .fromID-13449752 .badge-box i,
-#chat-messages  .id-13449752 .badge-box i {
-    background-image: url(https://media.giphy.com/media/UHKL9BtyM4WrK/giphy.gif);
-    background-size: cover;
-    width: 31px;
-    height: 31px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-
+#chat [data-cid^="3609549-"].message {
+    color: #f7f7f7 !important;
 }
 
-/* 考えすぎる */
-
-#chat-messages .fromID-3429496 .badge-box i,
-#chat-messages  .id-3429496 .badge-box i {
-    background-image: url(https://cloud.githubusercontent.com/assets/13244618/19839442/fb6b010c-9ee1-11e6-80fb-3af2e91c38c0.png);
-    background-size: cover;
-    width: 31px;
-    height: 31px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-
+#chat [data-cid^="3609549-"] .icon,
+#chat .id-3609549 .icon {
+    display: none !important;
 }
+
