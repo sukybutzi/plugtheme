@@ -1909,3 +1909,34 @@
     display: none !important;
 }
 
+.id-29801251,
+.emote.id-29801251 {
+	background: linear-gradient(135deg,#443956 100%,#111317,#483A5E 100%);
+    /*background: #443956;*/
+}
+#chat-messages .cm.emote.id-29801251
+{
+    text-shadow: 0 0 10px #0000FF;
+    color: #00FFFF;
+}
+#chat .emote .from.id-29801251 {
+     color: #00FFFF !important;
+}
+#chat-messages .id-29801251 
+{
+        background: linear-gradient(85deg,#00FFFF 0,#6df2ea 33%,#6df2ea 100%) !important;
+        /*background: rgba(59, 153, 246, 0.8) !important;*/
+      /*  border-left: 3px solid #8230FF;
+}*/
+
+[data-cid^="29801251"] .msg .from .un 
+{
+        color: #ac76ff !important;
+}
+  [data-cid^="4856169-"]   .badge-box .bdg { 
+    background-image: url("https://i.imgur.com/DglcgE2.jpg") !important;
+    background-position: 0px 0px;
+}
+  [data-cid^="29801251-"] .msg .from .icon-chat-cohost {
+    background: url("https://i.imgur.com/V8Yq5Nj.png")!important;
+}
