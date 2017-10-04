@@ -1936,11 +1936,6 @@
 }
 */
 
-#chat [data-cid^='4856169-'] .un:before {
-    content: url(https://i.imgur.com/mYcR78m.png);
-    padding: 0 5px 0 0px!important;
-}
-
 #user-rollover.id-4856169 .level:after {
     background-image: url(https://i.imgur.com/mYcR78m.png);
     background-repeat: no-repeat;
