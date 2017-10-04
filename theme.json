@@ -1,8 +1,8 @@
 {
-    "room":                     "RAVENUE",
-    "author":                   "NoisYmenT",
+    "room":                     "TRCC",
+    "author":                   "Suky",
     "icon":                     "https://cloud.githubusercontent.com/assets/13244618/18604499/a9381a5e-7c7d-11e6-8c18-8b0807e48e99.gif",
-    "css":                      "https://rawgit.com/NoisYmenT/plugtheme/master/roomcss3.css",
+    "css":                      "https://rawgit.com/sukybutzi/plugtheme/master/roomcss3.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
