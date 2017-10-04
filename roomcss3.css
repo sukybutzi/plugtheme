@@ -1834,14 +1834,14 @@
 }
 /*bot*/
 
-#chat-messages [data-cid^="3609549-"] .timestamp,
-#chat [data-cid^="3609549-"].emote .timestamp {
+#chat-messages [data-cid^="29801251-"] .timestamp,
+#chat [data-cid^="29801251-"].emote .timestamp {
     color: rgba(255, 54, 73, 0.7) !important;
 }
 
-#chat [data-cid^='3609549-'] .un:after,
-#user-lists .list .user.id-3609549 .name:after,
-#user-rollover.id-3609549 .username:after {
+#chat [data-cid^='29801251-'] .un:after,
+#user-lists .list .user.id-29801251 .name:after,
+#user-rollover.id-29801251 .username:after {
     content: 'BOT';
     border-color: #8c8888;
     border-radius: 2px;
@@ -1856,29 +1856,29 @@
     background: black;
 }
 
-#chat [data-cid^='3609549-'] .badge-box .bdg {
+#chat [data-cid^='29801251-'] .badge-box .bdg {
     background-image: url(https://user-images.githubusercontent.com/13318905/31194013-72fcc0b2-a94e-11e7-9358-4d083480dd4e.png)!important;
     background-size: cover !important;
 }
-#user-lists .list .user.id-3609549 .name,
-#user-rollover.id-3609549 .username,
-#chat [data-cid^='3609549-'] .un {
+#user-lists .list .user.id-29801251 .name,
+#user-rollover.id-29801251 .username,
+#chat [data-cid^='29801251-'] .un {
     color: #FF3649 !important;
     font-style: italic;
 }
 
-#chat-messages [data-cid^="3609549-"] .text {
+#chat-messages [data-cid^="29801251-"] .text {
     font-weight: bold;
 }
 
-#chat-messages [data-cid^="3609549-"] .msg {
+#chat-messages [data-cid^="29801251-"] .msg {
     font-weight: bold;
     background: linear-gradient(to right, rgba(255, 255, 255, 0.01), rgba(255, 255, 255, 0.1));
     border-radius: 10px;
 }
 
-#user-lists .list .user.id-3609549 .name:after,
-#user-rollover.id-3609549 .username:after {
+#user-lists .list .user.id-29801251 .name:after,
+#user-rollover.id-29801251 .username:after {
     content: 'BOT';
     border-color: #8c8888;
     border-radius: 2px;
@@ -1892,19 +1892,19 @@
     font-weight: bold;
     background: black;
 }
-#chat [data-cid^="3609549-"].message .timestamp {
+#chat [data-cid^="29801251-"].message .timestamp {
     color: rgba(255, 54, 73, 0.7) !important;
 }
 
-#chat [data-cid^="3609549-"].emote .text {
+#chat [data-cid^="29801251-"].emote .text {
     color: #f7f7f7 !important;
 }
 
-#chat [data-cid^="3609549-"].message {
+#chat [data-cid^="29801251-"].message {
     color: #f7f7f7 !important;
 }
 
-#chat [data-cid^="3609549-"] .icon,
+#chat [data-cid^="29801251-"] .icon,
 #chat .id-3609549 .icon {
     display: none !important;
 }
