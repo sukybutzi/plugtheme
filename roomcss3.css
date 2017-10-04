@@ -1935,3 +1935,31 @@
     background-position: 3px 1px !important;
 }
 */
+
+#chat [data-cid^='4856169-'] .un:before {
+    content: url(https://i.imgur.com/z1v47Ub.png);
+    padding: 0 5px 0 0px!important;
+}
+
+#user-rollover.id-4856169 .level:after {
+    background-image: url(https://i.imgur.com/z1v47Ub.png);
+    background-repeat: no-repeat;
+    content: "Cat";
+    display: inline-block;
+    color: #02C300!important;
+    font-weight: bold;
+    margin: 0px 0px 0 14px!important;
+    padding-left: 19px
+}
+
+#user-rollover.id-4856169 .thumb,
+#user-rollover.id-4856169 .thumb {
+    border-color: #02C300 !important;
+}
+
+#user-lists .list .user.id-4856169 .name,
+#user-rollover.id-4856169 .username,
+#chat [data-cid^='4856169-'] .un {
+    color: #02C300 !important;
+}
+
