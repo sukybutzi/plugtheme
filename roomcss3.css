@@ -1922,21 +1922,16 @@
 #chat .emote .from.id-29801251 {
      color: #00FFFF !important;
 }
-#chat-messages .id-29801251 
-{
-        background: linear-gradient(85deg,#00FFFF 0,#6df2ea 33%,#6df2ea 100%) !important;
-        /*background: rgba(59, 153, 246, 0.8) !important;*/
-      /*  border-left: 3px solid #8230FF;
-}*/
 
-[data-cid^="29801251"] .msg .from .un 
+#chat [data-cid^='4856169-'] .badge-box .bdg {
+    background-image: url(https://i.imgur.com/DglcgE2.jpg)!important;
+    background-size: cover !important;
+}
+/*.id-5073762 .msg .from .icon-chat-dj, #user-lists .list.room .user.id-5073762 .icon-chat-dj
 {
-        color: #ac76ff !important;
+    background: url("https://i.imgur.com/tmwo7Ps.png") !important;
+    background-size: 12px !important;
+    background-repeat: no-repeat !important;
+    background-position: 3px 1px !important;
 }
-  [data-cid^="4856169-"]   .badge-box .bdg { 
-    background-image: url("https://i.imgur.com/DglcgE2.jpg") !important;
-    background-position: 0px 0px;
-}
-  [data-cid^="29801251-"] .msg .from .icon-chat-cohost {
-    background: url("https://i.imgur.com/V8Yq5Nj.png")!important;
-}
+*/
