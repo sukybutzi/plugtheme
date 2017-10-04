@@ -1946,7 +1946,7 @@
     background-repeat: no-repeat;
     content: "Cat";
     display: inline-block;
-    color: #02C300!important;
+    color: #C100C3!important;
     font-weight: bold;
     margin: 0px 0px 0 14px!important;
     padding-left: 19px
@@ -1954,12 +1954,12 @@
 
 #user-rollover.id-4856169 .thumb,
 #user-rollover.id-4856169 .thumb {
-    border-color: #02C300 !important;
+    border-color: #C100C3 !important;
 }
 
 #user-lists .list .user.id-4856169 .name,
 #user-rollover.id-4856169 .username,
 #chat [data-cid^='4856169-'] .un {
-    color: #02C300 !important;
+    color: #C100C3 !important;
 }
 
