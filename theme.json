@@ -1,7 +1,7 @@
 {
     "room":                     "TRCC",
     "author":                   "Suky",
-    "icon":                     "https://cloud.githubusercontent.com/assets/13244618/18604499/a9381a5e-7c7d-11e6-8c18-8b0807e48e99.gif",
+    "icon":                     "https://user-images.githubusercontent.com/13318905/31193771-c1a7f1ce-a94d-11e7-8ad2-2d43cb13460c.png",
     "css":                      "https://rawgit.com/sukybutzi/plugtheme/master/roomcss3.css",
     "rules": {
         "allowAutorespond":     true,
