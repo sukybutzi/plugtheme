@@ -1862,10 +1862,6 @@
 }
 #user-lists .list .user.id-29801251 .name,
 #user-rollover.id-29801251 .username,
-#chat [data-cid^='29801251-'] .un {
-    color: #FF3649 !important;
-    font-style: italic;
-}
 
 #chat-messages [data-cid^="29801251-"] .text {
     font-weight: bold;
